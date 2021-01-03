@@ -10,7 +10,7 @@ LDFLAGS =
 # Makefile settings - Can be customized.
 APPNAME = runCalculator
 EXT = .cpp
-SRCDIR = /home/hanif/Documents/coding/cpp/vscode-cpp/cpp-math/calculator
+SRCDIR = /home/hanif/Documents/coding/git-github/cpp-math/calculator
 OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############

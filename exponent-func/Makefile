@@ -10,7 +10,7 @@ LDFLAGS =
 # Makefile settings - Can be customized.
 APPNAME = runExponent
 EXT = .cpp
-SRCDIR = /home/hanif/Documents/coding/cpp/vscode-cpp/cpp-math/exponent-func
+SRCDIR = /home/hanif/Documents/coding/git-github/cpp-math/exponent-func
 OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############
